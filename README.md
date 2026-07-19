@@ -82,7 +82,7 @@ The latest release introduces several improvements, including:
 * Performance optimizations.
 * Bug fixes.
 * Enhanced user interface.
-* Support for additional smartphone models. ([IBM Community][4])
+* Support for additional smartphone models.
 
 ---
 
